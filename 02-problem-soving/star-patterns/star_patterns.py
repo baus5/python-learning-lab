@@ -41,10 +41,10 @@ def pattern_title(title):
 # ------------------------------------------------------------------------------
 pattern_title("Simple Square Pattern")
 
-ROWS = 4
+rows = 4
 
-for i in range(ROWS):
-    for j in range(ROWS):
+for i in range(rows):
+    for j in range(rows):
         print("*", end=" ")
     print()
 
@@ -54,9 +54,9 @@ for i in range(ROWS):
 # ------------------------------------------------------------------------------
 pattern_title("Right Triangle Pattern")
 
-ROWS = 4
+rows = 4
 
-for i in range(1, ROWS + 1):
+for i in range(1, rows + 1):
     for j in range(i):
         print("*", end=" ")
     print()
@@ -67,9 +67,9 @@ for i in range(1, ROWS + 1):
 # ------------------------------------------------------------------------------
 pattern_title("Inverted Triangle")
 
-ROWS = 4
+rows = 4
 
-for i in range(ROWS, 0, -1):
+for i in range(rows, 0, -1):
     for j in range(i):
         print("*", end=" ")
     print()
@@ -78,6 +78,76 @@ for i in range(ROWS, 0, -1):
 # ------------------------------------------------------------------------------
 # 04 Pyramid Pattern
 # ------------------------------------------------------------------------------
+"""
+What this code is trying to print
+
+      *
+    * * *
+  * * * * *
+* * * * * * *
+"""
+
+"""My thoughts,
+
+At each step we decrease and expand — we decrease spaces and increase stars.
+In the code context, we work with lines. So each line, for example,
+includes an even number of spaces and an odd number of stars.
+Basically, line by line, this creates asymmetry.
+
+But in conclusion, we create a shape, and this shape has symmetry,
+so we are essentially creating symmetry from asymmetry.
+"""
+
+
+"""
+Pyramid patterns:
+step-by-step construction of a symmetric shape using
+shifting offsets and odd-width growth
+"""
+
+
+"""
+PYRAMID PATTERN - CORE IDEA
+
+A pyramid is built row by row using two controlled changes:
+
+1. LEFT SPACES (alignment control)
+   - Starts high and decreases each row
+   - Pushes the stars toward the center
+
+2. STARS (shape growth)
+   - Starts small and increases each row
+   - Always grows in an odd pattern (1, 3, 5, 7...)
+
+FORMULAS:
+- spaces = rows - i - 1
+- stars  = 2 * i + 1
+
+BIG IDEA:
+Each row = controlled shift (spaces) + controlled growth (stars)
+
+This combination creates a centered geometric shape (triangle).
+"""
+
+
+""" Instead of writing code first, always think:
+for each row:
+    print spaces
+    print stars
+    move to next line
+"""
+
 pattern_title("Pyramid Pattern")
 
-ROWS = 7
+rows = 4
+
+for i in range(rows):
+    # spaces
+    for j in range(rows - i - 1):
+        print(" ", end=" ")
+
+    # stars
+    for k in range(2 * i + 1):
+        print("*", end=" ")
+
+    print()

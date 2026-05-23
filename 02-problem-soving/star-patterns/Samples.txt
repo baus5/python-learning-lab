@@ -1,0 +1,38 @@
+Simple Square Pattern
+
+* * * *
+* * * *
+* * * *
+* * * *
+
+Right Triangle Pattern
+
+*
+* *
+* * *
+* * * *
+
+Inverted Triangle
+
+* * * *
+* * *
+* *
+*
+
+Pyramid Pattern
+
+      *
+    * * *
+  * * * * *
+* * * * * * *
+
+
+Diamond Pattern
+
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
