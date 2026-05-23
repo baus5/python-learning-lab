@@ -78,21 +78,13 @@ for i in range(rows, 0, -1):
 # ------------------------------------------------------------------------------
 # 04 Pyramid Pattern
 # ------------------------------------------------------------------------------
-"""
-What this code is trying to print
-
-      *
-    * * *
-  * * * * *
-* * * * * * *
-"""
 
 """My thoughts,
 
 At each step we decrease and expand — we decrease spaces and increase stars.
 In the code context, we work with lines. So each line, for example,
 includes an even number of spaces and an odd number of stars.
-Basically, line by line, this creates asymmetry.
+Basically, line by line, this creates asymmetry. (Maybe except last line)
 
 But in conclusion, we create a shape, and this shape has symmetry,
 so we are essentially creating symmetry from asymmetry.
