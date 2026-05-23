@@ -173,17 +173,6 @@ for i in range(upper_rows):
     print()
 
 
-# for i in range(rows // 2 + 1):
-#     # spaces
-#     for j in range(((rows // 2 + 1) - i) - 1):
-#         print(" ", end=" ")
-
-#     # stars
-#     for k in range(i * 2 + 1):
-#         print("*", end=" ")
-#     print()
-
-
 # lower part
 for i in range(lower_rows):
 
@@ -301,3 +290,6 @@ this is range(2, 0, -1)
 #         print("*", end=" ")
 
 #     print()
+
+
+# Re organize comments
