@@ -1,0 +1,17 @@
+# --- Handle Line Endings Automatically ---
+* text=auto
+
+# --- Enforce LF (Linux/Mac) Line Endings for Code ---
+*.py text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.json text eol=lf
+
+# --- Treat Images and Archives as Binary ---
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.zip binary
