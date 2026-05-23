@@ -42,11 +42,9 @@ Some exercises and implementations in this folder are based on:
 
 These implementations are created for educational and practice purposes while learning Python and problem solving.
 
-
-
 ## Tutorial Sources
 
-### 01 [Solve any Star Pattern program in Python](https://www.youtube.com/watch?v=fX64q6sYom0)
+### 01 Solve any Star Pattern program in Python
 
 - Platform: YouTube
 - Creator: [@SimplyCoding](https://www.youtube.com/@SimplyCoding)
