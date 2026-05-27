@@ -45,6 +45,39 @@ That is actually **a strong developer workflow.**
 
 ---
 
+## New Good Videos
+
+1. [Let’s Handle 1 Million Requests per Second, It’s Scarier Than You Think!](https://www.youtube.com/watch?v=W4EwfEU8CGA) - by Cododev
+2. [Understanding Objects in Python - Lists, Tuples, Sets, Dictionaries](https://www.youtube.com/watch?v=HSFeYk6Eu8A) - by Cododev
+3. [Why Fighter Jets Ban 90% of C++ Features](https://www.youtube.com/watch?v=Gv4sDL9Ljww) - by LaurieWired
+4. [1. General Overview and the Development of Numbers](https://www.youtube.com/watch?v=pk49iM9OT_0) - by Standford
+
+### Previews
+
+#### Let’s Handle 1 Million Requests per Second, It’s Scarier Than You Think!
+
+https://www.youtube.com/watch?v=W4EwfEU8CGA
+
+![img](https://img.youtube.com/vi/W4EwfEU8CGA/0.jpg)
+
+#### Understanding Objects in Python - Lists, Tuples, Sets, Dictionaries
+
+https://www.youtube.com/watch?v=HSFeYk6Eu8A
+
+![img](https://img.youtube.com/vi/HSFeYk6Eu8A/0.jpg)
+
+#### Why Fighter Jets Ban 90% of C++ Features
+
+https://www.youtube.com/watch?v=Gv4sDL9Ljww
+
+![img](https://img.youtube.com/vi/Gv4sDL9Ljww/0.jpg)
+
+#### 1. General Overview and the Development of Numbers
+
+https://www.youtube.com/watch?v=pk49iM9OT_0
+
+![img](https://img.youtube.com/vi/pk49iM9OT_0/0.jpg)
+
 ## Currently Learning
 
 Currently Learning
