@@ -83,20 +83,20 @@ https://www.youtube.com/watch?v=pk49iM9OT_0
 Currently Learning
 
 1. [All Python Syntax in 25 Minutes – Tutorial](https://www.youtube.com/watch?v=PNSIWjWAA7o)
-2. [Solve any Star Pattern program in Python](https://www.youtube.com/watch?v=fX64q6sYom0)
-3. [Solve any Number Pattern program in Python](https://www.youtube.com/watch?v=npopDLgUXzU)
 
 ---
 
 ## Courses & Tutorials
 
-- [All Python Syntax in 25 Minutes – Tutorial](https://www.youtube.com/watch?v=PNSIWjWAA7o) – [Beau Carnes](https://www.youtube.com/@beau)
-- [Python Full Course for Beginners](https://www.youtube.com/watch?v=K5KVEU3aaeQ) – [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
-- [Python Full Course for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc) – [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
-- [Beginner Python Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=s3IvdkCq2_c) – [Caleb Curry](https://www.youtube.com/@codebreakthrough)
-- [Beginner Python Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKK8ndQBBKolg7IxrC5T6Ws) – [Caleb Curry](https://www.youtube.com/@codebreakthrough)
-- [Python Programming All-in-One Tutorial Series (7 HOURS!)](https://www.youtube.com/watch?v=adNgan70iyU) – [Caleb Curry](https://www.youtube.com/@codebreakthrough)
-- ***
+- [All Python Syntax in 25 Minutes – Tutorial](https://www.youtube.com/watch?v=PNSIWjWAA7o) – Beau Carnes
+- [Python Full Course for Beginners](https://www.youtube.com/watch?v=K5KVEU3aaeQ) – Programming with Mosh - (new 2 hours)
+- [Python Full Course for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc) – Programming with Mosh - (old 6 hours)
+- [Beginner Python Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKK8ndQBBKolg7IxrC5T6Ws) – Caleb Curry (playlist from 6 hours)
+- [Beginner Python Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=s3IvdkCq2_c) – Caleb Curry
+- [Python Programming All-in-One Tutorial Series (7 HOURS!)](https://www.youtube.com/watch?v=adNgan70iyU) – Caleb Curry
+- ...
+
+---
 
 ## Courses previews
 
@@ -117,6 +117,9 @@ https://www.youtube.com/watch?v=K5KVEU3aaeQ
 ---
 
 ## Practice & Mini Exercises
+
+1. [Solve any Star Pattern program in Python](https://www.youtube.com/watch?v=fX64q6sYom0)
+2. [Solve any Number Pattern program in Python](https://www.youtube.com/watch?v=npopDLgUXzU)
 
 - Star pattern exercises
 - Loop and nested loop practice
